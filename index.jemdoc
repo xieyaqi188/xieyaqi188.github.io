@@ -1,0 +1,63 @@
+# jemdoc: showsource
+= Yaqi Xie
+
+~~~
+{}{img_left}{Resources/yaqixie_photo1.JPG}{Yaqi Xie}{192}{240}{Resources/yaqi_photo.JPG}
+I am a fourth-year Ph.D. student in Operations Management at Booth School of Business, University of Chicago.
+I am fortunate to be co-advised by Prof. [https://xin.engineering.cornell.edu/ Linwei Xin]
+and Prof. [https://www.columbia.edu/~wm2428/ Will Ma].
+Previously, I received a B.S. in Applied Mathematics from Zhejiang University.\n
+\n
+
+My research focuses on sequential decision-making problems,
+particularly data-driven algorithms for supply chain management and resource allocation,
+and deep learning for practical applications.   \n
+\n
+
+Email: yaqi.xie@chicagobooth.edu\n
+
+[Resources/yaqixie_CV.pdf \[CV\]] ~
+[https://scholar.google.com/citations?user=_BRE4akAAAAJ&hl=en \[Google Scholar\]]
+
+~~~
+
+
+== Research
+
+- *[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5784782
+DeepStock: Reinforcement Learning with Policy Regularizations for Inventory Management]*
+[Resources/Research/DeepStock_poster.pdf \[Poster\]]\n
+Yaqi Xie, Xinru Hao, Jiaxi Liu, Will Ma, Linwei Xin, Lei Cao, Yidong Zhang \n
+-- Finalist for the INFORMS 2025 Daniel H. Wagner Prize
+
+
+- *[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4794903
+VC Theory for Inventory Policies]*
+[Resources/Research/VC_RMP2025.pdf \[Slides\]]\n
+Yaqi Xie, Will Ma, Linwei Xin \n
+Major Revision in /Management Science/ \n
+-- Finalist for the INFORMS 2025 APS Best Student Paper Prize
+-- Selected for presentation in the MSOM 2024 Supply Chain Management SIG
+
+
+- *[https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00549
+The Benefits of Delay to Online Decision-Making]*
+[Resources/Research/Delay_slides.pdf \[Slides\]]\n
+Yaqi Xie, Will Ma, Linwei Xin \n
+/Management Science/, 2025 \n
+-- Selected for presentation in the MSOM 2023 Supply Chain Management SIG
+-- Covered in [https://www.chicagobooth.edu/review/why-making-customers-wait-pays-off-online-retailers Chicago Booth Review], 2023
+
+
+- *[https://journals.sagepub.com/doi/abs/10.1177/10591478251361781
+Dynamic Seat Selection Surcharge and Allocation Policy in Selling High-Speed Train Tickets]* \n
+Yaqi Xie, Zizhuo Wang \n
+/Production and Operations Management/, 2025 \n
+
+
+== Teaching
+Booth School of Business, Teaching Assistant:
+- Operations Management (MBA), Winter 2025\n
+- Supply Chain Management (Undergraduate), Winter 2025\n
+- Linear Programming (Ph.D.), Fall 2023
+
