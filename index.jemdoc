@@ -9,9 +9,11 @@ and Prof. [https://www.columbia.edu/~wm2428/ Will Ma].
 Previously, I received a B.S. in Applied Mathematics from Zhejiang University.\n
 
 
-My research focuses on sequential decision-making problems,
-particularly data-driven algorithms for supply chain management and resource allocation,
-and deep learning for practical applications. \n
+My research lies at the intersection of decision-making under uncertainty, data-driven optimization, and AI.
+I develop and analyze algorithms for large-scale operations problems,
+with applications in supply chain management, resource allocation, and deployable deep reinforcement learning systems.
+I am excited to explore how an operations perspective can illuminate the behavior and success of modern AI methods
+and how they can be tailored to specific operations problems to sharpen decision-making. \n
 
 
 Email: yaqi.xie@chicagobooth.edu\n
@@ -23,6 +25,9 @@ Email: yaqi.xie@chicagobooth.edu\n
 
 
 == Research
+
+- *Horizon-Free Fast Rates for Inventory Learning* \n
+Yaqi Xie, Will Ma, Linwei Xin
 
 - *[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5784782
 DeepStock: Reinforcement Learning with Policy Regularizations for Inventory Management]*
