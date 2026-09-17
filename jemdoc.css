@@ -8,7 +8,8 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	/*font-family: Georgia, serif;*/
+	font-family: Georgia, "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", SimSun, serif;
 	padding-bottom: 8px;
 	margin: 36px;
 }
