@@ -372,7 +372,7 @@ table.imgtable, table.imgtable td {
 	text-align: left;
 	/*max-width: 50em;*/
 	max-width: 60em;
-	/*vertical-align: top;*/
+	vertical-align: top;
 }
 
 
